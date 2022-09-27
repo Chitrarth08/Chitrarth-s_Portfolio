@@ -1,6 +1,6 @@
 # Chitrarth's_Portfolio
 
-#Project 1: Exploratory Data Analysis(EDA) on Airline Passenger Satisfaction
+# **Project 1: Exploratory Data Analysis(EDA) on Airline Passenger Satisfaction**
 
 This is a project that I did to gather and generate insights from an "Airline Passenger Satisfaction" DataSet.
 
@@ -11,7 +11,7 @@ This is a project that I did to gather and generate insights from an "Airline Pa
 
 
 
-#Project 2: Currency Exchange Calculator(Data Scrapping)
+# **Project 2: Currency Exchange Calculator(Data Scrapping)**
 
 This is a mini project that I did to make a Currency Exchange Calculator that converts one currency amount into another based on Real time or Historical Data from Currency Data API.
 
@@ -21,7 +21,7 @@ This is a mini project that I did to make a Currency Exchange Calculator that co
 
 
 
-#Project 3: Exploratory Data Analysis(EDA) on Loan Data
+# **Project 3: Exploratory Data Analysis(EDA) on Loan Data**
 
 This is a project that I did to clean and preprocess a "Loan" DataSet.
 
@@ -31,7 +31,7 @@ This is a project that I did to clean and preprocess a "Loan" DataSet.
 
 
 
-#Project 4: Exploratory Data Analysis(EDA) on Employee Dataset
+# **Project 4: Exploratory Data Analysis(EDA) on Employee Dataset**
 
 This is a project that I did to clean and preprocess an "Employee" DataSet.
 
