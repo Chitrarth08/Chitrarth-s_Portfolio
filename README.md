@@ -15,8 +15,8 @@ This is a project that I did to gather and generate insights from an "Airline Pa
 
 This is a mini project that I did to make a Currency Exchange Calculator that converts one currency amount into another based on Real time or Historical Data from Currency Data API.
 
-*API data was pulled from apilayer.com.
-*Tools Used: Python(Requests Library), Jupyter Notebook, Currency Data API(apilayer.com)
+* API data was pulled from apilayer.com.
+* Tools Used: Python(Requests Library), Jupyter Notebook, Currency Data API(apilayer.com)
 
 
 
